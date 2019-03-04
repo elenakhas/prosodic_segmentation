@@ -12,10 +12,17 @@ Our program uses empirical rules based on prosodic features: VNDurNorm, the norm
 ### Files:
 
 AutomaticProsodicSegmentation.pdf - Project report;
+
 ig_segmentation.py - the code;
+
 ParolePreparee.wav - an example audio file;
+
 PreparedSpeech_IG.TextGrid - the output file;
+
 PreparedSpeech.proDataV3 - the input file containing speech and acoustic features;
+
 PreparedSpeech.TextGrid - the input file with phone and word segmentation;
+
 PreparedSpeechREF.ProsoGrid - reference file for comparison;
+
 PreparedSpeechREF.TextGrid - reference file for comparison.
