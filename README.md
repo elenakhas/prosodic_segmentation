@@ -1,5 +1,5 @@
 # prosodic_segmentation
-A project for the class of Phonectics&Phonology, Master TAL(NLP), Lorrain University
+A project for the class of Phonectics&Phonology, Master TAL(NLP), Lorraine University
 
 Completed by Elena Khasanova and Siyana Pavlova
 
